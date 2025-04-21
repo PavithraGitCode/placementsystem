@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>React JS Paginationsa Design</h1>
+      <h1>React JS Paginationsa new Design</h1>
       <ul>
         {currentData.map((item) => (
           <li key={item.id}>
